@@ -35,6 +35,6 @@
   "author": "Sachin_dk19 <sachin.dheke@yakamoztech.com>",
   "license": "MIT",
   "lint-staged": {
-    "*.js": "eslint --cache --fix"
+    "*.js": "npm run lint"
   }
 }
